@@ -3,4 +3,4 @@ Simple trade logger for WoW (3.3.5a) but its simple enough to be edited and shou
 
 How to use:
 
-/Tl to view trade details and options
+/tl to view trade details and options
